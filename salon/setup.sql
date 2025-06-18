@@ -20,3 +20,4 @@ CREATE TABLE appointments(
   time VARCHAR
 );
 
+INSERT INTO services(name) VALUES ('cut hair'), ('shave beard'), ('do nails');
